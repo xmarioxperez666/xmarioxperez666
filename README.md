@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Mario Pérez
+# 👋 Hello! I'm Mario Pérez
 
 <div align="center">
   <strong>Senior UX Engineer</strong> • 🎨 Design Systems • 💻 Web Development • ♿ Accessibility
@@ -6,17 +6,17 @@
 
 ---
 
-## 🚀 Sobre Mí
+## 🚀 About Me
 
-Soy un **Senior UX Engineer** apasionado por crear experiencias digitales **pixel-perfect y accesibles** en la intersección del diseño y la tecnología. Me encanta trabajar donde el diseño cobra vida a través del código.
+I'm a **Senior UX Engineer** passionate about crafting **pixel-perfect, accessible digital experiences** at the intersection of design and technology. I love working where design comes to life through code.
 
-Mi día a día incluye:
-- 🔍 Sesiones de research UX
-- 🎨 Revisiones de diseño en Figma con el equipo de diseño
-- 💡 Llevar conceptos a código interactivo y production-ready
-- 🤝 Colaborar en la mejora de la experiencia del usuario
+My day-to-day involves:
+- 🔍 UX research sessions
+- 🎨 Design reviews in Figma with the design team
+- 💡 Bringing concepts to interactive, production-ready code
+- 🤝 Collaborating to improve user experience
 
-**Ubicación:** Mexico City, Mexico 🇲🇽
+**Location:** Mexico City, Mexico 🇲🇽
 
 ---
 
@@ -41,25 +41,25 @@ Mi día a día incluye:
 
 ---
 
-## 💼 Mi Trayectoria
+## 💼 My Journey
 
 ### 🏢 Warner Bros. Discovery
-**UX UI Developer** • 2024 - Presente
-- Desarrollo de interfaces de usuario pixel-perfect
-- Implementación de componentes accesibles
-- Colaboración cercana con equipos de diseño
+**UX UI Developer** • 2024 - Present
+- Developing pixel-perfect user interfaces
+- Implementing accessible components
+- Close collaboration with design teams
 
 ### 🏢 Thomson Reuters
 **Senior UX Engineer** • 2022 - 2024
-- Liderazgo técnico en proyectos UX
-- Definición de estándares de calidad
-- Mentoring a equipos de desarrollo
+- Technical leadership on UX projects
+- Defining quality standards
+- Mentoring development teams
 
 ### 🏢 KPMG Mexico
 **Lead Web Design** • 2016 - 2022
-- Dirección de proyectos web
-- Estrategia de diseño digital
-- Construcción de design systems
+- Web project direction
+- Digital design strategy
+- Building design systems
 
 ---
 
@@ -69,23 +69,23 @@ Mi día a día incluye:
 Problem-Solving  •  Collaboration  •  Adaptability  •  Mentorship
 ```
 
-Me encanta:
-- ✨ Resolver problemas complejos con soluciones elegantes
-- 🤝 Trabajar en equipo y compartir conocimiento
-- 🎯 Adaptarme a nuevos desafíos y tecnologías
-- 👨‍🏫 Mentorear y ayudar a otros a crecer
+I love:
+- ✨ Solving complex problems with elegant solutions
+- 🤝 Working with teams and sharing knowledge
+- 🎯 Adapting to new challenges and technologies
+- 👨‍🏫 Mentoring and helping others grow
 
 ---
 
-## 🎯 Filosofía
+## 🎯 Philosophy
 
-> *Traduciendo grandes ideas en diseño, y diseño en código production-ready de alta fidelidad.*
+> *Translating big ideas into design, and design into high-fidelity, production-ready code.*
 
-Mi objetivo es crear experiencias que no solo sean hermosas, sino también funcionales, accesibles y deliciosas de usar.
+My goal is to create experiences that are not only beautiful, but also functional, accessible, and delightful to use.
 
 ---
 
-## 📊 Estadísticas
+## 📊 Stats
 
 <div align="center">
 
@@ -95,7 +95,7 @@ Mi objetivo es crear experiencias que no solo sean hermosas, sino también funci
 
 ---
 
-## 🔗 Conéctate Conmigo
+## 🔗 Connect With Me
 
 <div align="center">
 
