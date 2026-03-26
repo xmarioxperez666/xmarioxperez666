@@ -85,21 +85,11 @@ My goal is to create experiences that are not only beautiful, but also functiona
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xmarioxperez666&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/tu-perfil) • [Twitter](https://twitter.com/tu-usuario) • [Portfolio](https://tu-portfolio.com)
+[LinkedIn](https://linkedin.com/in/mario-a-perez-j)
 
 </div>
 
