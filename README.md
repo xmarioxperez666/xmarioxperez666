@@ -53,13 +53,13 @@ My day-to-day involves:
 **Senior UX Engineer** • 2022 - 2024
 - Technical leadership on UX projects
 - Defining quality standards
-- Mentoring development teams
+- Mentoring development teams on A11y topics
 
 ### 🏢 KPMG Mexico
 **Lead Web Design** • 2016 - 2022
-- Web project direction
+- Web project direction - Company website
 - Digital design strategy
-- Building design systems
+- Email marketing development
 
 ---
 
